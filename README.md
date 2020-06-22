@@ -11,7 +11,7 @@ Real World Applications of this project:
 2. Smart home security systems
 3. Predictive maintenance with airborne sound analysis
 
-This repository contains:
+### This repository contains:
 - Final project report
 - Final project presentation
 
